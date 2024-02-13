@@ -1,0 +1,6 @@
+image
+crosscompiler
+bloatloader/build
+kernel/build
+bloatloader/objects
+kernel/objects
